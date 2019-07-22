@@ -1,2 +1,2 @@
-# reveal.js---sand-pit
+# reveal.js---sandbox
 Piaskownica do zabaw z reveal.js
